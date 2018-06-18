@@ -2,16 +2,16 @@
 
 ### Tabla de contenido
 1. [Descripción](#descripción)
-1. [Características principales](#Características-principales)
-1. [Contenido del paquete](#Contenido-del-paquete)
+1. [Características principales](#características-principales)
+1. [Contenido del paquete](#contenido-del-paquete)
 1. [Actualización del firmware](#actualización-del-firmware)
 1. [Intrucción de teclas de programación](#instrucción-de-teclas-de-programación)
 1. [Restauración por defecto](#restauración-por-defecto)
 1. [Teclas Fn](#teclas-fn)
 1. [Teclas compuestas Fn y Menu](#teclas-compuestas-fn-y-menu)
-1. [Descripción de edición de LEDs RGB](#descripción-de-edición-de-LEDs-RGB)
+1. [Descripción de edición de LEDs RGB](#descripción-de-edición-de-leds-rgb)
 1. [DIP Switch](#dip-switch)
-1. [Otros](#Otros)
+1. [Otros](#otros)
 
 
 ### Descripción
